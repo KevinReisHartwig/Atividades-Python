@@ -1,0 +1,1 @@
+print("o numero \33[32m 1 \33[m e o numero \33[31m 2 \33[m")
